@@ -11,7 +11,7 @@
  * 
  * 多账户一对一变量
  * 
- * 注册：http://p9o3aaoukihgoqs2cv8cy7h0pdbft.zhijianzzmm.cn/ttz/wechat/ttzScanCode?userShowId=3506
+ * 注册：http://gdwbzckolu5e7fkrs8m2f920pa77p.zhijianzzmm.cn/ttz/wechat/ttzScanCode?userShowId=6313
  * 
  * 自动阅读，自动提现，无需抓包
  * 
